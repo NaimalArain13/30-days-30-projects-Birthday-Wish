@@ -82,7 +82,7 @@ export default function BirthdayWish() {
     }, 500);
   };
   return (
-    <div className="min-h-screen bg-blue-700/10 flex p-4 items-center justify-center">
+    <div className="min-h-screen bg-blue-800/10 flex p-4 items-center justify-center">
       <motion.div
         initial={{ scale: 0.9, opacity: 0 }}
         animate={{ scale: 1, opacity: 1 }}
